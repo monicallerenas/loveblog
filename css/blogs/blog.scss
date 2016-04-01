@@ -1,0 +1,62 @@
+$veinte:20px;
+$azul: #ecf2f9;
+$total: 100%;
+$dos:2%;
+$fifty:50px;
+.post1{
+	margin-top: -6%;
+}
+.dia{
+	margin-top: 15%;
+}
+.top{
+	color:$rosa;
+	margin-top: 6%;
+}
+.about{
+	margin-top: -12%;
+}
+.back{
+	background-image: url(../images/heading-bg.png);
+	width: $total;
+	height: $veinte;
+	margin-top: -20%;
+	margin-bottom: 8%;
+}
+.back1{
+	background-image: url(../images/heading-bg.png);
+	width: $total;
+	height: $veinte;
+}
+.back3{
+	background-image: url(../images/heading-bg.png);
+	width: 50%;
+	height: $veinte;
+	margin-left: 45%;
+	margin-top: -8%;
+	margin-bottom: 5%;
+	}
+.icon2{
+	margin-top: 5%;
+}
+.recta_blog{
+	background-color: $azul;
+	width: $total;
+}
+.p4{
+	margin-left: 5%;
+	margin-top: -1%;
+	margin-bottom: $dos;
+	padding-bottom: $dos;
+}
+.cuadro{
+	background-color: $naranja;
+	width: $fifty;
+	height: $fifty;
+	display: inline-block;
+	color:white;
+	margin-left: $dos;
+	text-align: center;
+	padding-top: $dos;
+
+}

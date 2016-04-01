@@ -1,0 +1,16 @@
+.subtitulo{
+	background-color: $naranja;
+	margin-top: -7%;
+	width: 100%;
+	height: 55px;
+
+		h2{
+			color:white;
+			padding-top: 1%;
+			padding-left: 1%;
+		}
+}
+.foto_man{
+	border:solid $gris 1px;
+	padding: 3px;
+}

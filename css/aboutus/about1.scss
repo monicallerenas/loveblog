@@ -1,0 +1,55 @@
+$naranja: #ff5c33;
+$tres: 3%;
+$uno: 1%;
+$rosa: #ff6666;
+$veinte:20px;
+$total:100%;
+
+.subtitulo{
+	background-color: $naranja;
+	margin-top: -7%;
+	width: $total;
+	height: 55px;
+
+		h2{
+			color:white;
+			padding-top: $uno;
+			padding-left: $uno;
+		}
+}
+.foto_man{
+	border:solid gray 1px;
+	padding: 3px;
+	margin-top: $tres;
+}
+p{
+	margin-top: $tres;
+}
+h5{
+	color: $rosa;
+	margin-left:10%; 
+	margin-top: -19%;
+}
+.barra_horizontal{
+	width: $tres;
+	height: 150px;
+	background-color: $naranja;
+	border:solid 1px $naranja;
+	margin-left: 5%;
+}
+h4{
+	color: $rosa;
+}
+.back3{
+	background-image: url(../images/heading-bg.png);
+	width: 50%;
+	height: $veinte;
+	margin-left: 45%;
+	margin-top: -8%;
+	margin-bottom: 5%;
+	}
+.cuadros{
+	border: solid 1px $naranja;
+	width: 25%;
+	margin-bottom: $tres;
+}

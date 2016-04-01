@@ -1,0 +1,23 @@
+.titulo_menu{
+	color:black !important;
+	display: inline-block;
+	font-size: 18px;
+}
+.menu2{
+	color:gray;
+	display: inline-block;
+}
+.imgpost2{
+	width: $total;
+	margin-bottom: $tres;
+	margin-top: 20%;
+	border:solid gray 1px;
+	padding: 1%;
+}
+.cuadro_all{
+	width: 10%;
+	background-color: $azul;
+	border:solid 1px red;
+	text-align: center;
+	display: inline-block;
+}

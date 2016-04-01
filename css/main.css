@@ -1,0 +1,233 @@
+.subtitulo {
+  background-color: #ff5c33;
+  margin-top: -7%;
+  width: 100%;
+  height: 55px; }
+  .subtitulo h2 {
+    color: white;
+    padding-top: 1%;
+    padding-left: 1%; }
+
+.foto_man {
+  border: solid gray 1px;
+  padding: 3px;
+  margin-top: 3%; }
+
+p {
+  margin-top: 3%; }
+
+h5 {
+  color: #ff6666;
+  margin-left: 10%;
+  margin-top: -19%; }
+
+.barra_horizontal {
+  width: 3%;
+  height: 150px;
+  background-color: #ff5c33;
+  border: solid 1px #ff5c33;
+  margin-left: 5%; }
+
+h4 {
+  color: #ff6666; }
+
+.back3 {
+  background-image: url(../images/heading-bg.png);
+  width: 50%;
+  height: 20px;
+  margin-left: 45%;
+  margin-top: -8%;
+  margin-bottom: 5%; }
+
+.cuadros {
+  border: solid 1px #ff5c33;
+  width: 25%;
+  margin-bottom: 3%; }
+
+h1 {
+  color: #ff3333; }
+
+span {
+  color: #ff9999; }
+
+ul {
+  display: inline-block;
+  list-style-type: none;
+  text-decoration: none;
+  margin-top: 5%;
+  text-transform: uppercase;
+  margin-left: 15%; }
+
+li {
+  display: inline-block; }
+
+.header_bottom_area {
+  background-color: #f2ae9c;
+  min-height: 50px; }
+
+.main_content_area {
+  margin-top: -50px; }
+
+.content_area {
+  background: none repeat scroll 0 0 white;
+  border-left: 10px solid white;
+  border-right: 10px solid white; }
+
+a {
+  color: gray; }
+
+.active {
+  color: #ff3333; }
+
+.imgslide {
+  width: 100%; }
+
+.cuadro_home {
+  margin-top: 15%; }
+
+button {
+  background-color: #ff5c33; }
+
+.back2 {
+  background-image: url(../images/heading-bg.png);
+  width: 80%;
+  height: 20px;
+  margin-left: 20%;
+  margin-top: -3%;
+  margin-bottom: 5%; }
+
+.pbtn {
+  color: white; }
+
+.imgpost {
+  width: 100%; }
+
+.imgpost1 {
+  width: 23%; }
+
+.post {
+  width: 100%;
+  border: solid gray 1px;
+  opacity: .7; }
+
+h2 {
+  color: #ff6666; }
+
+p {
+  color: gray; }
+
+h4 {
+  color: #ff6666; }
+
+h3 {
+  color: gray; }
+
+#footer_area {
+  background-color: #ff6666;
+  margin-top: 5%; }
+  #footer_area .container {
+    background-color: #ff5c33;
+    border-right: 17px solid white;
+    border-left: 17px solid white; }
+    #footer_area .container h2 {
+      color: white; }
+    #footer_area .container p {
+      color: white; }
+
+.post1 {
+  margin-top: -6%; }
+
+.dia {
+  margin-top: 15%; }
+
+.top {
+  color: #ff6666;
+  margin-top: 6%; }
+
+.about {
+  margin-top: -12%; }
+
+.back {
+  background-image: url(../images/heading-bg.png);
+  width: 100%;
+  height: 20px;
+  margin-top: -20%;
+  margin-bottom: 8%; }
+
+.back1 {
+  background-image: url(../images/heading-bg.png);
+  width: 100%;
+  height: 20px; }
+
+.back3 {
+  background-image: url(../images/heading-bg.png);
+  width: 50%;
+  height: 20px;
+  margin-left: 45%;
+  margin-top: -8%;
+  margin-bottom: 5%; }
+
+.icon2 {
+  margin-top: 5%; }
+
+.recta_blog {
+  background-color: #ecf2f9;
+  width: 100%; }
+
+.p4 {
+  margin-left: 5%;
+  margin-top: -1%;
+  margin-bottom: 2%;
+  padding-bottom: 2%; }
+
+.cuadro {
+  background-color: #ff5c33;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  color: white;
+  margin-left: 2%;
+  text-align: center;
+  padding-top: 2%; }
+
+.titulo_menu {
+  color: black !important;
+  display: inline-block;
+  font-size: 18px; }
+
+.menu2 {
+  color: gray;
+  display: inline-block; }
+
+.imgpost2 {
+  width: 100%;
+  margin-bottom: 3%;
+  margin-top: 20%;
+  border: solid gray 1px;
+  padding: 1%; }
+
+.cuadro_all {
+  width: 10%;
+  background-color: #ecf2f9;
+  border: solid 1px red;
+  text-align: center;
+  display: inline-block; }
+
+.mapa {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 2%; }
+
+.form-control {
+  color: red !important; }
+
+@font-face {
+  font-family: 'beba';
+  src: url("../font/bebas___-webfont.ttf"); }
+@font-face {
+  font-family: 'helvetica Neue';
+  src: url("../font/helvetica neue.ttf");
+  src: url("../font/helvetica neue.eot");
+  src: url("../font/helvetica neue.woff"); }
+
+/*# sourceMappingURL=main.css.map */
